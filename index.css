@@ -1,27 +1,19 @@
 .socialicons {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  width: 80%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   height: 40px;
   background-color: #6F2B87;
-  margin-top: 20px;
   border-bottom-right-radius: 20px;
 }
 
 .about {
   border: 2px solid #6F2B87;
-  border-bottom-left-radius: 100px;
-  margin: 70px;
-  padding: 30px;
+  border-bottom-left-radius: 70px;
 }
 
 p {
   color: #6F2B87;
   font-size: large;
-  border: 2px #6F2B87;
 }
 /*# sourceMappingURL=index.css.map */

@@ -1,23 +1,38 @@
 .socialicons {
-    display: flex;
-    justify-content: space-between;
-    width: 80%;
+    // display: flex;
+    // justify-content: space-between;
+    align-items: center;
     height: 40px;
     background-color: #6F2B87;
-    margin-top: 20px;
     border-bottom-right-radius: 20px;
 
 }
 
 .about {
     border: 2px solid #6F2B87;
-    border-bottom-left-radius: 100px;
-    margin: 70px;
-    padding: 30px;
+    border-bottom-left-radius: 70px;
+    
 }
 
 p {
     color: #6F2B87;
     font-size: large;
-    border: 2px #6F2B87;
 }
+
+
+
+// .certlist {
+//     position: absolute;
+//     margin-top: 20px;
+// }
+
+// .certhr {
+//     position: absolute;
+//     border: 3px solid #6F2B87;
+//     transform: rotate(-90deg);
+// }
+
+// .certwrite {
+//     position: absolute;
+//     transform: rotate(-90deg);
+// }
